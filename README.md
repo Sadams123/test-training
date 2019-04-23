@@ -9,7 +9,7 @@ Rachael's training module :mortar_board:
 
 What's wrong with this sequence :question:
 
-## 1, 3, 5, 8, 9, 11
+## 1, 3, 5, 7, 9, 11
 
 
 This is training for today 
@@ -21,3 +21,4 @@ This will close the issue
 
 This is some extra training
 
+Ok
